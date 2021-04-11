@@ -1,0 +1,14 @@
+/code/target/lambda/release/deps/tracing-cf72f738a06f65bf.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/dispatcher.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/field.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/level_filters.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/span.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/stdlib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/subscriber.rs
+
+/code/target/lambda/release/deps/libtracing-cf72f738a06f65bf.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/dispatcher.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/field.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/level_filters.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/span.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/stdlib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/subscriber.rs
+
+/code/target/lambda/release/deps/tracing-cf72f738a06f65bf.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/macros.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/dispatcher.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/field.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/level_filters.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/span.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/stdlib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/subscriber.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/macros.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/dispatcher.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/field.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/level_filters.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/span.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/stdlib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.15/src/subscriber.rs:

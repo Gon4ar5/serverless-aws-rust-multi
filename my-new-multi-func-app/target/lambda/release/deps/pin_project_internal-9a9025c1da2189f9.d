@@ -1,0 +1,11 @@
+/code/target/lambda/release/deps/libpin_project_internal-9a9025c1da2189f9.so: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/utils.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/attribute.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/derive.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pinned_drop.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/project.rs
+
+/code/target/lambda/release/deps/pin_project_internal-9a9025c1da2189f9.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/utils.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/mod.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/attribute.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/derive.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pinned_drop.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/project.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/utils.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/mod.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/attribute.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pin_project/derive.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/pinned_drop.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/pin-project-internal-0.4.22/src/project.rs:
